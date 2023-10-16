@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ ===========================================================================================
+  ~  COPYRIGHT
+  ~           PAX Computer Technology(Shenzhen) CO., LTD PROPRIETARY INFORMATION
+  ~  This software is supplied under the terms of a license agreement or nondisclosure
+  ~  agreement with PAX Computer Technology(Shenzhen) CO., LTD and may not be copied or
+  ~  disclosed except in accordance with the terms in that agreement.
+  ~           Copyright (C) 2021-2023 PAX Computer Technology(Shenzhen) CO., LTD All
+  ~   rights reserved.
+  ~
+  ~  Revision History:
+  ~  Date                           Author                      Action
+  ~  2023/10/16                     likewei                     Create
+  ~ ===========================================================================================
+  ~
+  -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BlankFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/hello_blank_fragment" />
+
+</FrameLayout>

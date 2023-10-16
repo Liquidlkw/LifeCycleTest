@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ ===========================================================================================
+  ~  COPYRIGHT
+  ~           PAX Computer Technology(Shenzhen) CO., LTD PROPRIETARY INFORMATION
+  ~  This software is supplied under the terms of a license agreement or nondisclosure
+  ~  agreement with PAX Computer Technology(Shenzhen) CO., LTD and may not be copied or
+  ~  disclosed except in accordance with the terms in that agreement.
+  ~           Copyright (C) 2021-2023 PAX Computer Technology(Shenzhen) CO., LTD All
+  ~   rights reserved.
+  ~
+  ~  Revision History:
+  ~  Date                           Author                      Action
+  ~  2023/10/16                     likewei                     Create
+  ~ ===========================================================================================
+  ~
+  -->
+
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ ===========================================================================================
+  ~  COPYRIGHT
+  ~           PAX Computer Technology(Shenzhen) CO., LTD PROPRIETARY INFORMATION
+  ~  This software is supplied under the terms of a license agreement or nondisclosure
+  ~  agreement with PAX Computer Technology(Shenzhen) CO., LTD and may not be copied or
+  ~  disclosed except in accordance with the terms in that agreement.
+  ~           Copyright (C) 2021-2023 PAX Computer Technology(Shenzhen) CO., LTD All
+  ~   rights reserved.
+  ~
+  ~  Revision History:
+  ~  Date                           Author                      Action
+  ~  2023/10/16                     likewei                     Create
+  ~ ===========================================================================================
+  ~
+  -->
+
+<!--
+   Sample data extraction rules file; uncomment and customize as necessary.
+   See https://developer.android.com/about/versions/12/backup-restore#xml-changes
+   for details.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <!-- TODO: Use <include> and <exclude> to control what is backed up.
+        <include .../>
+        <exclude .../>
+        -->
+    </cloud-backup>
+    <!--
+    <device-transfer>
+        <include .../>
+        <exclude .../>
+    </device-transfer>
+    -->
+</data-extraction-rules>
